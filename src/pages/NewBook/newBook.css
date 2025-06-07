@@ -1,0 +1,27 @@
+.book-layout {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+.book-title {
+  font-size: 40px;
+  font-weight: 400;
+  color: #111;
+  line-height: 1.4;
+}
+
+.book-img {
+  height: 400px;
+  width: 800px;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.book-price{
+    font-size : 25px;
+    color : green;
+}
+
+.book-explain{
+    font-size : 30px;
+}
